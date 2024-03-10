@@ -1,3 +1,5 @@
+# Hi 👋, I'm Adel
+
 <h3 align="center">A Technomist who cares about building products that matter (also dabbling in AI)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zanetworker&label=Profile%20views&color=0e75b6&style=flat" alt="zanetworker" /> </p>
