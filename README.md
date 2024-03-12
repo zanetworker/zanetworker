@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [The AI Landscape](https://github.com/zanetworker/ai-landscape)
 
-- 🤝 I’m looking for help with **Making Ideas a reality**
+- 🤝 I’m looking to help other folks trying to **Make their Ideas a reality**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zanetworker](https://github.com/zanetworker)
 
