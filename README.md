@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zanetworker](https://github.com/zanetworker)
 
-- 📝 I regularly write articles on [adelzaalouk.me](https://adelzaalouk.me/)
+- 📝 I write articles on [adelzaalouk.me](https://adelzaalouk.me/)
 
 - 💬 Ask me about **Business, cloud-native, AI, Kubernetes, and Cloud**
 
