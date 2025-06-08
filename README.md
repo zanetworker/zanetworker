@@ -8,10 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/zanetworker" target="blank"><img src="https://img.shields.io/twitter/follow/zanetworker?logo=twitter&style=for-the-badge" alt="zanetworker" /></a> </p>
 
-- 🔭 I’m currently working on [Commons AI](https://github.com/zanetworker/commons-bot)
-
-- 👯 I’m looking to collaborate on [The AI Landscape](https://github.com/zanetworker/ai-landscape)
-
 - 🤝 I’m looking to help other folks trying to **Make their Ideas a reality**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zanetworker](https://github.com/zanetworker)
