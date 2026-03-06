@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [github.com/zanetworker](https://github.com/zanetworker)
 - 🌐 My website: [adelzaalouk.me](https://adelzaalouk.me/)
 - 📝 I write articles on [The Technomist](https://thetechnomist.com/)
-- 💬 Ask me about **AI, LLMs, Kubernetes, cloud-native, and building products**
+- 💬 Ask me about **AI, LLMs, Agents, AI Safety, Kubernetes, cloud-native, and building products**
 - 📫 Reach me at **[linkedin.com/in/adelzaalouk](https://www.linkedin.com/in/adelzaalouk/)**
 
 <h3 align="left">Connect with me:</h3>
