@@ -6,12 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=zanetworker&label=Profile%20views&color=0e75b6&style=flat" alt="zanetworker" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zanetworker" alt="zanetworker" />
-  </a>
-</p>
-
 - 🔭 I work on **AI platforms, inference infrastructure, and agentic systems**
 - 🤝 I'm looking to help other folks trying to **make their ideas a reality**
 - 👨‍💻 All of my projects are available at [github.com/zanetworker](https://github.com/zanetworker)
