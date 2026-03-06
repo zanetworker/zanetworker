@@ -2,7 +2,7 @@
 
 ## A [Technomist](https://thetechnomist.com/) building AI products that matter
 
-- 🔭 I work on **AI platforms, inference infrastructure, and agentic systems**
+- 🔭 I work on **AI platforms, agentic systems, and AI safety**
 - 🤝 I'm looking to help other folks trying to **make their ideas a reality**
 - 🌐 My website: [adelzaalouk.me](https://adelzaalouk.me/)
 - 📝 I write articles on [The Technomist](https://thetechnomist.com/)
