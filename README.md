@@ -15,6 +15,7 @@
 - 🔭 I work on **AI platforms, inference infrastructure, and agentic systems**
 - 🤝 I'm looking to help other folks trying to **make their ideas a reality**
 - 👨‍💻 All of my projects are available at [github.com/zanetworker](https://github.com/zanetworker)
+- 🌐 My website: [adelzaalouk.me](https://adelzaalouk.me/)
 - 📝 I write articles on [The Technomist](https://thetechnomist.com/)
 - 💬 Ask me about **AI, LLMs, Kubernetes, cloud-native, and building products**
 - 📫 Reach me at **[linkedin.com/in/adelzaalouk](https://www.linkedin.com/in/adelzaalouk/)**
